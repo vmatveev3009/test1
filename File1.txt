@@ -6,3 +6,4 @@ commit test
 789.
 qwerty
 new branch line
+new line for GUI
